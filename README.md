@@ -1,1 +1,1 @@
-pedantic-snyder-c048e2.netlify.app
+https://pedantic-snyder-c048e2.netlify.app
